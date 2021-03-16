@@ -1,5 +1,7 @@
 import { RepositoryItem } from "./RepositoryItem";
 
+import "../styles/repositories.scss";
+
 const repository = {
   name: "01-github-explorer",
   description: "Uma aplicação para listar repositório do Github",
